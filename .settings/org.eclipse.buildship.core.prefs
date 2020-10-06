@@ -1,0 +1,8 @@
+auto.sync=false
+build.scans.enabled=false
+connection.gradle.distribution=GRADLE_DISTRIBUTION(LOCAL_INSTALLATION(E\:\\All Required Software\\Utility Software\\gradle-6.6.1-bin\\gradle-6.6.1))
+connection.project.dir=
+eclipse.preferences.version=1
+gradle.user.home=
+offline.mode=false
+override.workspace.settings=true
